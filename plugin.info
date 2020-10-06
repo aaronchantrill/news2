@@ -1,0 +1,10 @@
+[Plugin]
+Name = news2
+Version = 2.0.0
+License = MIT
+URL = https://github.com/NaomiProject/Naomi
+Description = Stay informed what's going on with the News plugin
+
+[Author]
+Name =  Naomi Project
+URL = https://github.com/NaomiProject/Naomi
